@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791930951 source:c:\users\250769\documents\brenda\grading system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
